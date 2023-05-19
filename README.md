@@ -1,4 +1,4 @@
-# Which-is-your-best-classifier
+# Who-s_the_best
 
 This repository contains a Python script developed by Ayush Kumar Singh that helps you determine the best classifier for your machine learning task. It provides a comparison of various classifiers based on their performance metrics.
 The is built on Stremlit to provide an introduction to the features and workings of Streamlit
